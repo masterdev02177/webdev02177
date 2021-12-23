@@ -2,8 +2,6 @@
 
 ### Hi there 👋
 
-Seasoned developer with 7+ years of IT experiences, designing and developing solid, reliable, scalable, and maintainable software solutions in the Blockchain and MERN tech stack. I have the ability to prioritize well, communicate clearly, able to work across multiple acets of the project also juggle multiple responsibilities at the same time. Also, have strong analytic capability and the ability to create innovative solutions.
-
 <h3 align="center">Seasoned developer with 7+ years of IT experiences, designing and developing solid, reliable, scalable, and maintainable software solutions in the Blockchain and MERN tech stack. I have the ability to prioritize well, communicate clearly, able to work across multiple acets of the project also juggle multiple responsibilities at the same time. Also, have strong analytic capability and the ability to create innovative solutions.</h3>
 
 <h3 align="left">Connect with me:</h3>
