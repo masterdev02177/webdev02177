@@ -2,7 +2,7 @@
 
 Seasoned developer with 7+ years of IT experiences, designing and developing solid, reliable, scalable, and maintainable software solutions in the Blockchain and MERN tech stack. I have the ability to prioritize well, communicate clearly, able to work across multiple acets of the project also juggle multiple responsibilities at the same time. Also, have strong analytic capability and the ability to create innovative solutions.
 
-![](https://raw.githubusercontent.com/rafnixg/rafnixg/master/rafnix_header.jpeg)
+![](https://github.com/webdev02177/webdev02177/blob/main/michael-fortsch-8TEpTK7363I-unsplash.jpg)
 
 ![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
 
