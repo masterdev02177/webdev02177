@@ -24,7 +24,7 @@ https://master9eyes.com/
 ![App Screenshot](https://github.com/webdev02177/webdev02177/blob/main/Screenshot_1.jpg)
 
 
-## 🔗 Links
+<!-- ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kennedyleon/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kennedyleon/) -->
 
